@@ -1,0 +1,31 @@
+,0
+Total Fwd Packet,0.4051253720506425
+Flow Bytes/s,0.1423928330461851
+Fwd IAT Std,0.11632512584352443
+Flow IAT Mean,0.09408342711650446
+Flow Duration,0.07505663854575448
+Bwd IAT Min,0.06093353518006925
+Bwd Init Win Bytes,0.0490863291458116
+Flow IAT Min,0.04142816644040869
+Subflow Fwd Packets,0.012954286027703347
+Subflow Bwd Bytes,0.0008706748040281609
+Subflow Fwd Bytes,0.0007295809442398359
+Active Mean,0.0006222917372506221
+Idle Std,0.0003917391178775486
+Bwd Packet Length Min,0.0
+Bwd URG Flags,0.0
+Fwd URG Flags,0.0
+Bwd PSH Flags,0.0
+Fwd PSH Flags,0.0
+Fwd Packet Length Min,0.0
+Dst Port,0.0
+Packet Length Min,0.0
+RST Flag Count,0.0
+Fwd Bulk Rate Avg,0.0
+Fwd Packet/Bulk Avg,0.0
+Fwd Bytes/Bulk Avg,0.0
+ECE Flag Count,0.0
+CWR Flag Count,0.0
+URG Flag Count,0.0
+Fwd Seg Size Min,0.0
+Active Std,0.0
