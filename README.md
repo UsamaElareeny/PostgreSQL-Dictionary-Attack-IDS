@@ -58,7 +58,7 @@ A visual representation of this workflow is included in the report.
 ├── project workflow.png # Workflow diagram used in report
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
-...
+---
 ## 🧹 Data Preprocessing
 
 The following preprocessing steps are applied:
